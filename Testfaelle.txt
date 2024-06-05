@@ -1,0 +1,703 @@
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 49
+
+Bitte geben Sie K ein :6
+
+Geben sie ihren 6-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 49 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:1,3,12,13,47,49
+Die Anzahl an Zahlenkombinationen in einem Feld aus 49 Zahlen liegt für:
+- 1 Zahlen bei: 49 
+- 2 Zahlen bei: 1176 
+- 3 Zahlen bei: 18424 
+- 4 Zahlen bei: 211876 
+- 5 Zahlen bei: 1906884 
+- 6 Zahlen bei: 13983816 
+
+
+
+
+1. Ziehung:
+Ihre Tipzahlen: 1,3,12,13,47,49,
+Die Lottozahlen:7,10,16,23,28,46,
+Sie haben keinen Treffer
+
+
+2. Ziehung:
+Ihre Tipzahlen: 1,3,12,13,47,49,
+Die Lottozahlen:1,6,7,33,39,49,
+Sie haben ihre 1.zahl, die 1 richtig getippt!
+Sie haben ihre 6.zahl, die 49 richtig getippt!
+und somit 2 Treffer
+
+
+3. Ziehung:
+Ihre Tipzahlen: 1,3,12,13,47,49,
+Die Lottozahlen:13,19,27,32,45,48,
+Sie haben ihre 4.zahl, die 13 richtig getippt!
+und somit 1 Treffer
+
+
+4. Ziehung:
+Ihre Tipzahlen: 1,3,12,13,47,49,
+Die Lottozahlen:5,16,27,33,38,41,
+Sie haben keinen Treffer
+
+
+5. Ziehung:
+Ihre Tipzahlen: 1,3,12,13,47,49,
+Die Lottozahlen:14,19,31,35,42,45,
+Sie haben keinen Treffer
+
+
+6. Ziehung:
+Ihre Tipzahlen: 1,3,12,13,47,49,
+Die Lottozahlen:6,7,24,31,35,42,
+Sie haben keinen Treffer
+
+
+7. Ziehung:
+Ihre Tipzahlen: 1,3,12,13,47,49,
+Die Lottozahlen:1,13,19,21,27,45,
+Sie haben ihre 1.zahl, die 1 richtig getippt!
+Sie haben ihre 4.zahl, die 13 richtig getippt!
+und somit 2 Treffer
+
+
+8. Ziehung:
+Ihre Tipzahlen: 1,3,12,13,47,49,
+Die Lottozahlen:1,2,26,27,29,38,
+Sie haben ihre 1.zahl, die 1 richtig getippt!
+und somit 1 Treffer
+
+
+.....
+
+
+
+
+
+#################################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 49
+
+Bitte geben Sie K ein :6
+
+Geben sie ihren 6-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 49 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:3,12,13,47,49
+Die Anzahl an Zahlenkombinationen in einem Feld aus 49 Zahlen liegt für:
+- 1 Zahlen bei: 49 
+- 2 Zahlen bei: 1176 
+- 3 Zahlen bei: 18424 
+- 4 Zahlen bei: 211876 
+- 5 Zahlen bei: 1906884 
+- 6 Zahlen bei: 13983816 
+Sie haben zu wenig Zahlen eingetippt!
+Geben sie eine weitere Zahl ein:
+
+
+#################################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 49
+
+Bitte geben Sie K ein :6
+
+Geben sie ihren 6-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 49 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:3,12,13,47,49,20,21
+Die Anzahl an Zahlenkombinationen in einem Feld aus 49 Zahlen liegt für:
+- 1 Zahlen bei: 49 
+- 2 Zahlen bei: 1176 
+- 3 Zahlen bei: 18424 
+- 4 Zahlen bei: 211876 
+- 5 Zahlen bei: 1906884 
+- 6 Zahlen bei: 13983816 
+
+
+
+
+1. Ziehung:
+Ihre Tipzahlen: 3,12,13,20,47,49,
+Die Lottozahlen:1,4,7,20,31,37,
+Sie haben ihre 4.zahl, die 20 richtig getippt!
+und somit 1 Treffer
+
+
+2. Ziehung:
+Ihre Tipzahlen: 3,12,13,20,47,49,
+Die Lottozahlen:1,7,13,20,32,49,
+Sie haben ihre 3.zahl, die 13 richtig getippt!
+Sie haben ihre 4.zahl, die 20 richtig getippt!
+Sie haben ihre 6.zahl, die 49 richtig getippt!
+und somit 3 Treffer
+
+
+###########################################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 49
+
+Bitte geben Sie K ein :6
+
+Geben sie ihren 6-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 49 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:12,3,13,49,19,47
+Die Anzahl an Zahlenkombinationen in einem Feld aus 49 Zahlen liegt für:
+- 1 Zahlen bei: 49 
+- 2 Zahlen bei: 1176 
+- 3 Zahlen bei: 18424 
+- 4 Zahlen bei: 211876 
+- 5 Zahlen bei: 1906884 
+- 6 Zahlen bei: 13983816 
+
+
+
+1. Ziehung:
+Ihre Tipzahlen: 3,12,13,19,47,49,
+Die Lottozahlen:3,22,33,39,45,49,
+Sie haben ihre 1.zahl, die 3 richtig getippt!
+Sie haben ihre 6.zahl, die 49 richtig getippt!
+und somit 2 Treffer
+
+
+2. Ziehung:
+Ihre Tipzahlen: 3,12,13,19,47,49,
+Die Lottozahlen:1,2,6,9,15,23,
+Sie haben keinen Treffer
+
+
+3. Ziehung:
+Ihre Tipzahlen: 3,12,13,19,47,49,
+Die Lottozahlen:25,44,45,46,47,48,
+Sie haben ihre 5.zahl, die 47 richtig getippt!
+und somit 1 Treffer
+
+
+4. Ziehung:
+Ihre Tipzahlen: 3,12,13,19,47,49,
+Die Lottozahlen:11,17,20,37,43,46,
+Sie haben keinen Treffer
+
+
+5. Ziehung:
+Ihre Tipzahlen: 3,12,13,19,47,49,
+Die Lottozahlen:4,14,16,36,37,47,
+Sie haben ihre 5.zahl, die 47 richtig getippt!
+und somit 1 Treffer
+
+
+6. Ziehung:
+Ihre Tipzahlen: 3,12,13,19,47,49,
+Die Lottozahlen:3,6,7,17,22,47,
+Sie haben ihre 1.zahl, die 3 richtig getippt!
+Sie haben ihre 5.zahl, die 47 richtig getippt!
+und somit 2 Treffer
+
+
+7. Ziehung:
+Ihre Tipzahlen: 3,12,13,19,47,49,
+Die Lottozahlen:6,8,12,27,31,37,
+Sie haben ihre 2.zahl, die 12 richtig getippt!
+und somit 1 Treffer
+
+
+8. Ziehung:
+Ihre Tipzahlen: 3,12,13,19,47,49,
+Die Lottozahlen:1,26,27,30,35,49,
+Sie haben ihre 6.zahl, die 49 richtig getippt!
+....
+
+########################################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 49
+
+Bitte geben Sie K ein :6
+
+Geben sie ihren 6-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 49 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:3,12,13,47,49,12 
+Die Anzahl an Zahlenkombinationen in einem Feld aus 49 Zahlen liegt für:
+- 1 Zahlen bei: 49 
+- 2 Zahlen bei: 1176 
+- 3 Zahlen bei: 18424 
+- 4 Zahlen bei: 211876 
+- 5 Zahlen bei: 1906884 
+- 6 Zahlen bei: 13983816 
+
+die 6. Zahl ist doppelt!
+Geben sie statt dieser Zahl eine andere ein:
+
+##################################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 49
+
+Bitte geben Sie K ein :6
+
+Geben sie ihren 6-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 49 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:3,12,13,47,49,51
+Die Anzahl an Zahlenkombinationen in einem Feld aus 49 Zahlen liegt für:
+- 1 Zahlen bei: 49 
+- 2 Zahlen bei: 1176 
+- 3 Zahlen bei: 18424 
+- 4 Zahlen bei: 211876 
+- 5 Zahlen bei: 1906884 
+- 6 Zahlen bei: 13983816 
+
+die 6. Zahl ist ungueltig!
+Geben sie statt dieser Zahl eine gültige ein:
+
+#################################################################################
+
+
+
+
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 49
+
+Bitte geben Sie K ein :6
+
+Geben sie ihren 6-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 49 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:17,0,31,32,4,8
+Die Anzahl an Zahlenkombinationen in einem Feld aus 49 Zahlen liegt für:
+- 1 Zahlen bei: 49 
+- 2 Zahlen bei: 1176 
+- 3 Zahlen bei: 18424 
+- 4 Zahlen bei: 211876 
+- 5 Zahlen bei: 1906884 
+- 6 Zahlen bei: 13983816 
+Sie haben zu wenig Zahlen eingetippt!
+Geben sie eine weitere Zahl ein:
+
+#########################################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 49
+
+Bitte geben Sie K ein :6
+
+Geben sie ihren 6-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 49 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:1,2,5,13,20,49,
+Die Anzahl an Zahlenkombinationen in einem Feld aus 49 Zahlen liegt für:
+- 1 Zahlen bei: 49 
+- 2 Zahlen bei: 1176 
+- 3 Zahlen bei: 18424 
+- 4 Zahlen bei: 211876 
+- 5 Zahlen bei: 1906884 
+- 6 Zahlen bei: 13983816 
+
+
+
+1. Ziehung:
+Ihre Tipzahlen: 1,2,5,13,20,49,
+Die Lottozahlen:6,9,11,19,28,34,
+Sie haben keinen Treffer
+
+
+2. Ziehung:
+Ihre Tipzahlen: 1,2,5,13,20,49,
+Die Lottozahlen:12,22,26,28,33,43,
+Sie haben keinen Treffer
+
+
+3. Ziehung:
+Ihre Tipzahlen: 1,2,5,13,20,49,
+Die Lottozahlen:6,15,27,33,34,37,
+Sie haben keinen Treffer
+
+
+4. Ziehung:
+Ihre Tipzahlen: 1,2,5,13,20,49,
+Die Lottozahlen:20,24,43,46,48,49,
+Sie haben ihre 5.zahl, die 20 richtig getippt!
+Sie haben ihre 6.zahl, die 49 richtig getippt!
+und somit 2 Treffer
+
+
+5. Ziehung:
+Ihre Tipzahlen: 1,2,5,13,20,49,
+Die Lottozahlen:1,4,13,27,34,40,
+Sie haben ihre 1.zahl, die 1 richtig getippt!
+Sie haben ihre 4.zahl, die 13 richtig getippt!
+und somit 2 Treffer
+
+
+6. Ziehung:
+Ihre Tipzahlen: 1,2,5,13,20,49,
+Die Lottozahlen:1,10,11,12,13,23,
+Sie haben ihre 1.zahl, die 1 richtig getippt!
+Sie haben ihre 4.zahl, die 13 richtig getippt!
+und somit 2 Treffer
+
+
+7. Ziehung:
+Ihre Tipzahlen: 1,2,5,13,20,49,
+Die Lottozahlen:1,4,13,20,27,39,
+Sie haben ihre 1.zahl, die 1 richtig getippt!
+Sie haben ihre 4.zahl, die 13 richtig getippt!
+Sie haben ihre 5.zahl, die 20 richtig getippt!
+und somit 3 Treffer
+
+
+#############################################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 63
+
+Bitte geben Sie K ein :7
+
+Geben sie ihren 7-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 63 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:1,3,12,13,47,49,23
+Die Anzahl an Zahlenkombinationen in einem Feld aus 63 Zahlen liegt für:
+- 1 Zahlen bei: 63 
+- 2 Zahlen bei: 1953 
+- 3 Zahlen bei: 39711 
+- 4 Zahlen bei: 595665 
+- 5 Zahlen bei: 7028847 
+- 6 Zahlen bei: 67945521 
+- 7 Zahlen bei: -60296085 
+
+
+
+1. Ziehung:
+Ihre Tipzahlen: 1,3,12,13,23,47,49,
+Die Lottozahlen:1,8,12,23,32,37,39,
+Sie haben ihre 1.zahl, die 1 richtig getippt!
+Sie haben ihre 3.zahl, die 12 richtig getippt!
+Sie haben ihre 5.zahl, die 23 richtig getippt!
+und somit 3 Treffer
+
+##################################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 63
+
+Bitte geben Sie K ein :7
+
+Geben sie ihren 7-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 63 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:3,12,13,47,49,59
+Die Anzahl an Zahlenkombinationen in einem Feld aus 63 Zahlen liegt für:
+- 1 Zahlen bei: 63 
+- 2 Zahlen bei: 1953 
+- 3 Zahlen bei: 39711 
+- 4 Zahlen bei: 595665 
+- 5 Zahlen bei: 7028847 
+- 6 Zahlen bei: 67945521 
+- 7 Zahlen bei: -60296085 
+Sie haben zu wenig Zahlen eingetippt!
+Geben sie eine weitere Zahl ein:
+
+###############################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 63
+
+Bitte geben Sie K ein :7
+
+Geben sie ihren 7-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 63 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:3,12,13,47,49,20,21,4
+Die Anzahl an Zahlenkombinationen in einem Feld aus 63 Zahlen liegt für:
+- 1 Zahlen bei: 63 
+- 2 Zahlen bei: 1953 
+- 3 Zahlen bei: 39711 
+- 4 Zahlen bei: 595665 
+- 5 Zahlen bei: 7028847 
+- 6 Zahlen bei: 67945521 
+- 7 Zahlen bei: -60296085 
+
+
+
+
+1. Ziehung:
+Ihre Tipzahlen: 3,12,13,20,21,47,49,
+Die Lottozahlen:6,17,27,42,54,58,60,
+Sie haben keinen Treffer
+
+
+2. Ziehung:
+Ihre Tipzahlen: 3,12,13,20,21,47,49,
+Die Lottozahlen:3,8,18,20,26,52,56,
+Sie haben ihre 1.zahl, die 3 richtig getippt!
+Sie haben ihre 4.zahl, die 20 richtig getippt!
+und somit 2 Treffer
+
+
+3. Ziehung:
+Ihre Tipzahlen: 3,12,13,20,21,47,49,
+Die Lottozahlen:4,12,16,22,28,47,60,
+Sie haben ihre 2.zahl, die 12 richtig getippt!
+Sie haben ihre 6.zahl, die 47 richtig getippt!
+und somit 2 Treffer
+
+....
+
+#######################################################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 63
+
+Bitte geben Sie K ein :7
+
+Geben sie ihren 7-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 63 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:12,3,13,49,19,47,63
+Die Anzahl an Zahlenkombinationen in einem Feld aus 63 Zahlen liegt für:
+- 1 Zahlen bei: 63 
+- 2 Zahlen bei: 1953 
+- 3 Zahlen bei: 39711 
+- 4 Zahlen bei: 595665 
+- 5 Zahlen bei: 7028847 
+- 6 Zahlen bei: 67945521 
+- 7 Zahlen bei: -60296085 
+
+
+
+1. Ziehung:
+Ihre Tipzahlen: 3,12,13,19,47,49,63,
+Die Lottozahlen:1,5,12,21,32,36,39,
+Sie haben ihre 2.zahl, die 12 richtig getippt!
+und somit 1 Treffer
+
+
+2. Ziehung:
+Ihre Tipzahlen: 3,12,13,19,47,49,63,
+Die Lottozahlen:1,11,14,33,43,44,55,
+Sie haben keinen Treffer
+
+
+3. Ziehung:
+Ihre Tipzahlen: 3,12,13,19,47,49,63,
+Die Lottozahlen:17,25,26,31,32,49,58,
+Sie haben ihre 6.zahl, die 49 richtig getippt!
+und somit 1 Treffer
+
+
+4. Ziehung:
+Ihre Tipzahlen: 3,12,13,19,47,49,63,
+Die Lottozahlen:18,22,42,46,54,61,63,
+Sie haben ihre 7.zahl, die 63 richtig getippt!
+und somit 1 Treffer
+
+
+5. Ziehung:
+Ihre Tipzahlen: 3,12,13,19,47,49,63,
+Die Lottozahlen:12,13,18,23,24,38,49,
+Sie haben ihre 2.zahl, die 12 richtig getippt!
+Sie haben ihre 3.zahl, die 13 richtig getippt!
+Sie haben ihre 6.zahl, die 49 richtig getippt!
+und somit 3 Treffer
+
+#############################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 63
+
+Bitte geben Sie K ein :7
+
+Geben sie ihren 7-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 63 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:3,12,13,47,49,12,53 
+Die Anzahl an Zahlenkombinationen in einem Feld aus 63 Zahlen liegt für:
+- 1 Zahlen bei: 63 
+- 2 Zahlen bei: 1953 
+- 3 Zahlen bei: 39711 
+- 4 Zahlen bei: 595665 
+- 5 Zahlen bei: 7028847 
+- 6 Zahlen bei: 67945521 
+- 7 Zahlen bei: -60296085 
+
+die 6. Zahl ist doppelt!
+Geben sie statt dieser Zahl eine andere ein:
+
+#########################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 63
+
+Bitte geben Sie K ein :7
+
+Geben sie ihren 7-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 63 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:3,12,13,47,49,51,67
+Die Anzahl an Zahlenkombinationen in einem Feld aus 63 Zahlen liegt für:
+- 1 Zahlen bei: 63 
+- 2 Zahlen bei: 1953 
+- 3 Zahlen bei: 39711 
+- 4 Zahlen bei: 595665 
+- 5 Zahlen bei: 7028847 
+- 6 Zahlen bei: 67945521 
+- 7 Zahlen bei: -60296085 
+
+die 7. Zahl ist ungueltig!
+Geben sie statt dieser Zahl eine gültige ein:
+
+##############################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 63
+
+Bitte geben Sie K ein :7
+
+Geben sie ihren 7-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 63 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:17,0,31,32,4,8,50
+Die Anzahl an Zahlenkombinationen in einem Feld aus 63 Zahlen liegt für:
+- 1 Zahlen bei: 63 
+- 2 Zahlen bei: 1953 
+- 3 Zahlen bei: 39711 
+- 4 Zahlen bei: 595665 
+- 5 Zahlen bei: 7028847 
+- 6 Zahlen bei: 67945521 
+- 7 Zahlen bei: -60296085 
+Sie haben zu wenig Zahlen eingetippt!
+Geben sie eine weitere Zahl ein:
+
+######################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 9
+
+Bitte geben Sie K ein :4
+
+Geben sie ihren 4-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 9 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:5,5,5,5
+Die Anzahl an Zahlenkombinationen in einem Feld aus 9 Zahlen liegt für:
+- 1 Zahlen bei: 9 
+- 2 Zahlen bei: 36 
+- 3 Zahlen bei: 84 
+- 4 Zahlen bei: 126 
+
+die 2. Zahl ist doppelt!
+Geben sie statt dieser Zahl eine andere ein:
+
+######################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 9
+
+Bitte geben Sie K ein :4
+
+Geben sie ihren 4-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 9 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:1,2,3,4
+Die Anzahl an Zahlenkombinationen in einem Feld aus 9 Zahlen liegt für:
+- 1 Zahlen bei: 9 
+- 2 Zahlen bei: 36 
+- 3 Zahlen bei: 84 
+- 4 Zahlen bei: 126 
+
+
+
+1. Ziehung:
+Ihre Tipzahlen: 1,2,3,4,
+Die Lottozahlen:5,6,8,9,
+Sie haben keinen Treffer
+
+
+2. Ziehung:
+Ihre Tipzahlen: 1,2,3,4,
+Die Lottozahlen:2,4,5,8,
+Sie haben ihre 2.zahl, die 2 richtig getippt!
+Sie haben ihre 4.zahl, die 4 richtig getippt!
+und somit 2 Treffer
+
+
+3. Ziehung:
+Ihre Tipzahlen: 1,2,3,4,
+Die Lottozahlen:2,5,6,8,
+Sie haben ihre 2.zahl, die 2 richtig getippt!
+und somit 1 Treffer
+
+
+4. Ziehung:
+Ihre Tipzahlen: 1,2,3,4,
+Die Lottozahlen:2,6,7,8,
+Sie haben ihre 2.zahl, die 2 richtig getippt!
+und somit 1 Treffer
+
+
+5. Ziehung:
+Ihre Tipzahlen: 1,2,3,4,
+Die Lottozahlen:3,6,8,9,
+Sie haben ihre 3.zahl, die 3 richtig getippt!
+und somit 1 Treffer
+
+
+6. Ziehung:
+Ihre Tipzahlen: 1,2,3,4,
+Die Lottozahlen:1,5,6,9,
+Sie haben ihre 1.zahl, die 1 richtig getippt!
+und somit 1 Treffer
+
+
+7. Ziehung:
+Ihre Tipzahlen: 1,2,3,4,
+Die Lottozahlen:3,5,6,9,
+Sie haben ihre 3.zahl, die 3 richtig getippt!
+und somit 1 Treffer
+
+
+8. Ziehung:
+Ihre Tipzahlen: 1,2,3,4,
+Die Lottozahlen:2,3,4,9,
+Sie haben ihre 2.zahl, die 2 richtig getippt!
+Sie haben ihre 3.zahl, die 3 richtig getippt!
+Sie haben ihre 4.zahl, die 4 richtig getippt!
+und somit 3 Treffer
+
+#################################################
+***************************** LOTTOSPIEL ******************************
+
+
+Bitte geben Sie N ein : 4
+
+Bitte geben Sie K ein :9
+
+Geben sie ihren 9-stelligen Lottotip ein.
+Die Zahlen dürfen nicht größer als 4 sein und nicht doppelt vorkommen.
+Trennen sie die Zahlen mit einem Komma:1,2,3,4,5,6,7,8,9
+Die Anzahl an Zahlenkombinationen in einem Feld aus 4 Zahlen liegt für:
+- 1 Zahlen bei: 4 
+- 2 Zahlen bei: 6 
+- 3 Zahlen bei: 4 
+- 4 Zahlen bei: 1 
+- 5 Zahlen bei: 0 
+- 6 Zahlen bei: 0 
+- 7 Zahlen bei: 0 
+- 8 Zahlen bei: 0 
+- 9 Zahlen bei: 0 
+
+die 5. Zahl ist ungueltig!
+Geben sie statt dieser Zahl eine gültige ein:
+
+
